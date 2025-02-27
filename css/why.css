@@ -1,0 +1,9 @@
+.why{
+  display: flex;
+  justify-content: center;
+  width:100%;
+  flex-flow: row wrap;
+}
+.why h2 {
+  text-align: center;
+}

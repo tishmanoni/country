@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+body{
+  font-family: 'Akaya Telivigala', cursive;
+  background-color: #393b39;
+}
+
+.binary-style p {
+
+    color: black;
+    font-size: 21px;
+
+}
+.row2{
+  background-color: #ebecf0;
+  padding: 10px;
+
+
+}
+.row2 h2{
+  margin-top: 20px;
+  color: #F2BE13;
+  letter-spacing: 1px;
+
+}
+.row2 img{
+  margin-top: 20px;
+  margin-bottom: 25px;
+  padding: 8px;
+  vertical-align: middle;
+  width: 120px;
+  margin-left: 30px;
+  height: 50px;
+
+
+}
+
+.row5 {
+   background-color:#160B47;
+   padding-top: 60px;
+   padding-bottom: 60px;
+
+
+}
+.row5 h3{
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-weight: normal;
+  color: #406A9C;
+
+}
+.row5 h2{
+  font-size: 35px;
+  letter-spacing: 1px;
+  /* font-weight: normal; */
+  color: #fff;
+
+}
+.row5 p{
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: normal;
+  color: #fff;
+
+
+}
+.row5 button{
+
+  padding: 15px;
+  background-color: inherit;
+  color: #fff;
+  border: 2px solid #fff;
+  font-size: 14px;
+
+  letter-spacing: 1px;
+
+
+}
+.started button{
+
+  padding: 18px;
+  background-color: #F2BE13;
+  color: #black;
+  border: 2px solid #fff;
+  font-size: 15px;
+  margin-left: 64vh;
+
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+
+
+}
+.row6{
+  background-color: #e9ebf0;
+  padding: 40px;
+}
+.row6 p{
+  font-size: 14px;
+  letter-spacing: 1px;
+
+}
+
+
+
+
+@media screen and (max-width:1136px) {
+
+  .nav-links li a{
+    padding: 14px 6px;
+  }
+}
+@media screen and (max-width:1024px) {
+
+   .nav-links{
+    width: 78%;
+
+
+  }
+  .nav-links li a{
+    padding: 14px 7px;
+  }
+  .nav-links a{
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 12px;
+
+
+}

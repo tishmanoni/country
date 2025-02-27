@@ -1,0 +1,88 @@
+.h2{
+  font-weight: bold;
+  font-size: 15px;
+  
+}
+.date-regis {
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.edit{
+  font-size: 24px;
+  font-weight:lighter;
+  padding: 15px 0;
+}
+
+.editt{
+  padding:10px 0;
+}
+
+.payment{
+  font-size: 20px;
+  padding-left: 15px;
+  padding-top: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-bottom: 29px;
+  border-bottom: 1px solid #dedcdc;
+}
+
+
+.deposit h3{
+
+  font-weight:normal;
+  font-size: 25px;
+  letter-spacing: 1px;
+
+
+}
+
+.deposit p{
+  font-size: 16px;
+
+}
+.deposit h2{
+  font-size: 16px;
+}
+
+.dep{
+  padding-top: 10px;
+}
+
+.deposit-edit {
+  font-weight: bold;
+
+}
+
+
+.withdraw h1{
+  font-size: 29px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+
+.withdraw h2{
+  font-size: 26px;
+  font-weight:400;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  text-decoration: underline;
+
+
+}
+.how h1{
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 8px;
+  font-size: 29px;
+}
+
+.how p{
+  font-size: 18px;
+  padding: 8px;
+  letter-spacing: 1px;
+  color: red;
+}
+

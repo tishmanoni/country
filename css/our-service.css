@@ -1,0 +1,62 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  width:100%;
+  flex-flow: row wrap;
+  background-color: #fff;
+
+
+}
+.flex-container a {
+  color:black;
+}
+
+.flex-container :hover{
+  background-color: #0e85b0;
+  color: white;
+
+
+}
+.cards :hover{
+  background-color: #0e85b0;
+  color: white;
+}
+
+
+
+.flex-container > div {
+  background-color:#e6e7e8;
+  width: 350px;
+  margin: 10px;
+  text-align: center;
+  height: auto;
+  font-size: 16px;
+  flex-wrap: wrap;
+
+
+}
+
+.flex-container h4 {
+
+  font-weight: bold;
+
+}
+.adjustment-h{
+
+  text-align: center;
+  padding-bottom: 15px;
+
+}
+
+@media screen and (max-width:768px) {
+  .adjustment-h{
+    font-size: 22px;
+    text-align:center;
+    padding-bottom: 14px;
+  }
+
+
+
+
+  }
+}

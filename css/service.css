@@ -1,0 +1,80 @@
+.mycard {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 280px;
+  border-radius: 5px;
+
+}
+
+.mycard:hover {
+  background-color: #c2c3c4
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.mycontainer {
+  padding: 2px 16px;
+}
+
+@media screen and (max-width:992px) {
+
+  .hide{
+    display: none;
+      padding-top: 10px;
+  }
+
+}
+@media screen and (max-width:768px) {
+  .hide{
+    display: block;
+
+  }
+  .mypad{
+    padding-bottom:15px;
+    margin-left: 80px;
+  }
+
+
+}
+@media screen and (max-width:576px){
+    .hide{
+      display: block;
+    }
+    .mypad{
+      max-width:100%;
+      margin-left:80px;
+    }
+}
+@media screen and (max-width:422px){
+    .hide{
+      display: block;
+    }
+    .mypad{
+      max-width:100%;
+      margin-left:40px;
+    }
+}
+
+@media screen and (max-width:360px){
+    .hide{
+      display: block;
+    }
+    .mypad{
+      max-width:100%;
+
+      margin-left:5px;
+    }
+}
+
+@media screen and (max-width:315px){
+    .hide{
+      display: block;
+    }
+    .mypad{
+      max-width:100%;
+
+      margin-left:-7px
+    }
+}
