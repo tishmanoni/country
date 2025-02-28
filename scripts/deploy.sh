@@ -6,7 +6,7 @@ sudo systemctl start apache2
 
 # Deploy website files
 sudo rm -rf /var/www/html/*
-sudo git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY.git /var/www/html/
+sudo git clone https://github.com/tishmanoni/country.git /var/www/html/
 sudo chown -R www-data:www-data /var/www/html
 sudo chmod -R 755 /var/www/html
 
