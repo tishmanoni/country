@@ -592,7 +592,7 @@ s0.parentNode.insertBefore(s1,s0);
 
                                        <div class="testimonial">
                                            <p class="description">
-                                              Country Gardenhas been the go to source for all of the information I have obtained about blockchain technology and cryptocurrency. I was in the dark about all of it and I owe all of my progress to this informative site and their team.
+                                              Country Garden holding has been the go to source for all of the information I have obtained about blockchain technology and cryptocurrency. I was in the dark about all of it and I owe all of my progress to this informative site and their team.
                                            </p>
                                            <div class="pic">
                                                <img src="images/team4-large.jpg" alt=""/>
