@@ -566,7 +566,7 @@ s0.parentNode.insertBefore(s1,s0);
 
                                        <div class="testimonial">
                                            <p class="description">
-                                             Making a change testing, Within the first few hours of signing up for Country Garden, I had doubled my investment subscription. The information, the team , and the entire community are always so helpful. I would consider this one of the best crypto communities in the entire space!
+                                             Making a change testingss, Within the first few hours of signing up for Country Garden, I had doubled my investment subscription. The information, the team , and the entire community are always so helpful. I would consider this one of the best crypto communities in the entire space!
                                            </p>
                                            <div class="pic">
                                                <img src="images/person-2.jpg" alt=""/>
