@@ -553,7 +553,7 @@ s0.parentNode.insertBefore(s1,s0);
                                    <div id="testimonial-slider" class="owl-carousel">
                                        <div class="testimonial">
                                            <p class="description">
-                                               I want to thank Country Gardenfor getting me setup to trade cryptocurrency. Now is the time to invest more.”
+                                               I want to thank Country Gardenfor getting me setup to trade cryptocurrency. Now is the time to invest more. I love the system”
                                            </p>
                                            <div class="pic">
                                                <img src="testimonial1.jpeg" alt=""/>
