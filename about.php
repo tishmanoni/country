@@ -69,7 +69,7 @@ session_start()
          <!-- <h5 class="mt-4 mx-4">What do we do?</h5>
          <h2 class="mx-4 ">Our Mission, Values and Motto</h2>
          <p class="px-4">FidelityFx strategy focuses in providing unparalleled support,
-            tools and an innovation for professional traders and
+            tools and an innovation for professional traders and h
            liquidity providers around the world. As a fiduciary to our clients,
            it is our responsibility to ensure that clients are provided with the utmost benefit.
          </p> -->
