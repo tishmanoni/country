@@ -10,5 +10,4 @@ sudo git clone https://github.com/tishmanoni/country.git /var/www/html/
 sudo chown -R www-data:www-data /var/www/html
 sudo chmod -R 755 /var/www/html
 
-# Restart Apache
-sudo systemctl restart apache2
+
