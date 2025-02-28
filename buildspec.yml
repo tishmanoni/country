@@ -2,11 +2,11 @@ version: 0.2
 phases:
   install:
     commands:
-      - yum update -y
-      - yum install -y httpd php php-mysqlnd mysql git
+      - sudo yum update -y
+      - sudo yum install -y httpd php php-mysqlnd mysql git
   build:
     commands:
-      - systemctl start httpd
+      - sudo systemctl start httpd
   post_build:
     commands:
       - echo "Deployment successful!"
