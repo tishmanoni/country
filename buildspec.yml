@@ -3,7 +3,7 @@ phases:
   install:
     commands:
       - sudo yum update -y
-      - sudo yum install -y httpd php php-mysqlnd mysql git
+      # - sudo yum install -y httpd php php-mysqlnd mysql git
   build:
     commands:
       - sudo systemctl start httpd
