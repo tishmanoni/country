@@ -1,17 +1,17 @@
 #!/bin/bash
-echo "Running PostScript: Restarting Apache..."
+echo "Running PostScript: Restarting Apache (httpd)..."
 
 # Exit on error
 set -e
 
-# Restart Apache
-sudo systemctl restart apache2
+# Restart httpd service (Apache for Amazon Linux)
+sudo systemctl restart httpd
 
-# Check if Apache is running
-if systemctl is-active --quiet apache2; then
-    echo "Apache restarted successfully."
+# Check if httpd is running
+if systemctl is-active --quiet httpd; then
+    echo "Apache (httpd) restarted successfully."
 else
-    echo "Apache failed to restart!" >&2
+    echo "Apache (httpd) failed to restart!" >&2
     exit 1
 fi
 
